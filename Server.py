@@ -1,6 +1,5 @@
 #MADE BY
 #Natalie Friede
-#010892127
 import socket
 balance = 100
 
