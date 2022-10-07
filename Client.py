@@ -1,8 +1,6 @@
 #MADE BY
-#Natalie Friede
-#010892127
-#I did copy some of this from the tutorials online, but 90% of it is me
-    #please no academic integrity I didn't copy from any students
+#Natalie F
+
 import socket
 
 
